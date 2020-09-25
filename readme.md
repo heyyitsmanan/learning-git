@@ -7,3 +7,5 @@ Now I am just updating this file to check if I can see this in "git status".
 ## Branching
 
 Now I have made a new branch named new-branch and I am saving it to check whether it works or not ;)
+
+Now I am just trying to update a branch even after I have merged it into master branch.
